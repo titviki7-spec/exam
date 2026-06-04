@@ -1,0 +1,19 @@
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\exam web.exe
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\exam web.deps.json
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\exam web.runtimeconfig.json
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\exam web.dll
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\exam web.pdb
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sanne\source\repos\exam web\exam web\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.csproj.AssemblyReference.cache
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.AssemblyInfoInputs.cache
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.AssemblyInfo.cs
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.csproj.CoreCompileInputs.cache
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.csproj.Up2Date
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.dll
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\refint\exam web.dll
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.pdb
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\exam web.genruntimeconfig.cache
+C:\Users\Sanne\source\repos\exam web\exam web\obj\Debug\net9.0\ref\exam web.dll
